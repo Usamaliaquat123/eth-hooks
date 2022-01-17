@@ -35,7 +35,7 @@
     "publish:yalc": "yarn build && yarn package && cd lib && yalc publish --no-script --push",
     "publish:next": "yarn build && yarn package && cd lib && npm publish --tag next",
     "publish:latest": "yarn build && yarn package && cd lib && npm publish --tag latest",
-    "docs": "yarn typedoc --listInvalidSymbolLinks && shx mv ./docs/api-typedocs/readme.md ./docs/api-typedocs/api-overview.md",
+    "docs": "yarn typedoc --listInvalidSymbolLinks && shx mv ./docs/api-typedocs/README.md ./docs/api-typedocs/api-overview.md && shx cp -r ./README.md ./docs/README.md",
     "deprecate": "npm deprecate",
     "lint": "eslint --config ./.eslintrc --ignore-path ./.eslintignore ./src/**/*.(ts|tsx) ./test/**/*.(ts|tsx)",
     "test": "yarn test:hardhat",

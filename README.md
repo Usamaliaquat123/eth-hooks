@@ -226,6 +226,6 @@ const [purpose, update] = useContractReader(
 
 # API Documentation
 
-Check out [the documentation here!](https://scaffold-eth.github.io/eth-hooks/)
+Check out [the api documentation here!](https://scaffold-eth.github.io/eth-hooks/api-typedocs/api-overview.html)
 
 The documentation are also available on [scaffold-eth's gitbook](https://docs.scaffoldeth.io/scaffold-eth-libraries/v/eth-hooks-v3/)

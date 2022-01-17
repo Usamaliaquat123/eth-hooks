@@ -76,7 +76,7 @@ current block number
 
 #### Defined in
 
-[src/context/ethers/BlockNumberContext.tsx:64](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/BlockNumberContext.tsx#L64)
+[src/context/ethers/BlockNumberContext.tsx:64](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/BlockNumberContext.tsx#L64)
 
 ___
 
@@ -110,7 +110,7 @@ Gives you access to consistent interface to get the current provider information
 
 #### Defined in
 
-[src/context/ethers/EthersAppContext.tsx:37](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/EthersAppContext.tsx#L37)
+[src/context/ethers/EthersAppContext.tsx:37](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/EthersAppContext.tsx#L37)
 
 ___
 
@@ -139,7 +139,7 @@ See scaffold-eth-typescript for an example that uses it to connect to a localhos
 
 #### Defined in
 
-[src/context/ethers/connectors/StaticJsonRpcProviderConnector.ts:31](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/connectors/StaticJsonRpcProviderConnector.ts#L31)
+[src/context/ethers/connectors/StaticJsonRpcProviderConnector.ts:31](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/connectors/StaticJsonRpcProviderConnector.ts#L31)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractConnectors.ts:43](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractConnectors.ts#L43)
+[src/context/app-contracts/contractConnectors.ts:43](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractConnectors.ts#L43)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractConnectors.ts:69](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractConnectors.ts#L69)
+[src/context/app-contracts/contractConnectors.ts:69](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractConnectors.ts#L69)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractConnectors.ts:95](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractConnectors.ts#L95)
+[src/context/app-contracts/contractConnectors.ts:95](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractConnectors.ts#L95)
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractsContextFactory.tsx:89](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractsContextFactory.tsx#L89)
+[src/context/app-contracts/contractsContextFactory.tsx:89](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractsContextFactory.tsx#L89)
 
 ## Type aliases
 
@@ -279,7 +279,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractsContextFactory.tsx:30](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractsContextFactory.tsx#L30)
+[src/context/app-contracts/contractsContextFactory.tsx:30](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractsContextFactory.tsx#L30)
 
 ___
 
@@ -306,7 +306,7 @@ ___
 
 #### Defined in
 
-[src/context/app-contracts/contractsContextFactory.tsx:69](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/app-contracts/contractsContextFactory.tsx#L69)
+[src/context/app-contracts/contractsContextFactory.tsx:69](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/app-contracts/contractsContextFactory.tsx#L69)
 
 ___
 
@@ -328,7 +328,7 @@ Props for context that allow you specify alternate web3ReactRoot [See docs](http
 
 #### Defined in
 
-[src/context/ethers/EthersAppContext.tsx:97](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/EthersAppContext.tsx#L97)
+[src/context/ethers/EthersAppContext.tsx:97](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/EthersAppContext.tsx#L97)
 
 ___
 
@@ -338,7 +338,7 @@ ___
 
 #### Defined in
 
-[src/context/ethers/connectors/EthersModalConnector.ts:45](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/connectors/EthersModalConnector.ts#L45)
+[src/context/ethers/connectors/EthersModalConnector.ts:45](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/connectors/EthersModalConnector.ts#L45)
 
 ## EthersContext Variables
 
@@ -355,7 +355,7 @@ A context that works with [useBlockNumberContext](EthersContext.md#useblocknumbe
 
 #### Defined in
 
-[src/context/ethers/BlockNumberContext.tsx:86](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/BlockNumberContext.tsx#L86)
+[src/context/ethers/BlockNumberContext.tsx:86](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/BlockNumberContext.tsx#L86)
 
 ___
 
@@ -373,7 +373,7 @@ This is a wrapper around Web3ReactProvider that provides additional functionalit
 
 #### Defined in
 
-[src/context/ethers/EthersAppContext.tsx:144](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/EthersAppContext.tsx#L144)
+[src/context/ethers/EthersAppContext.tsx:144](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/EthersAppContext.tsx#L144)
 
 ___
 
@@ -385,4 +385,4 @@ ___
 
 #### Defined in
 
-[src/context/ethers/queryClient.ts:3](https://github.com/scaffold-eth/eth-hooks/blob/9f227f7/src/context/ethers/queryClient.ts#L3)
+[src/context/ethers/queryClient.ts:3](https://github.com/scaffold-eth/eth-hooks/blob/1a397d7/src/context/ethers/queryClient.ts#L3)
